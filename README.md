@@ -6,6 +6,12 @@ Dois métodos/rotas estão disponíveis:
 - / - endpoint raiz que retorna a expressão 'Olá mundo!'
 - /status - endpoint que retorna a expressão 'Status de vida!!!'
 
+Após startar o projeto, teste-o abrindo um navegador de sua preferência e digite:
+- http://localhost:3000/
+- http://localhost:3000/status
+
+Caso a aplicação esteja executando em outro computador, substitua 'localhost' pelo IP ou Domínio daquele host.
+
 ## Instalação das dependências
 Atenção: Os comandos serão executados em um ambiente Linux, com base na distribuição Ubuntu (pacotes Debian).
 
