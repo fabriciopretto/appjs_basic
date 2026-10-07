@@ -1,6 +1,10 @@
 # API JS Básica
 
-Este pequeno trecho de código apresenta uma forma rápida e simples para instalar os pacotes necessários para executar um API escrita na linguagem JavaScript, utilizando o ambiente de execução Node.js para executar o código.
+Este pequeno trecho de código apresenta uma forma rápida e simples para instalar os pacotes necessários para executar uma API escrita na linguagem JavaScript, utilizando o ambiente de execução Node.js para executar o código.
+
+Dois métodos/rotas estão disponíveis:
+- / - endpoint raiz que retorna a expressão 'Olá mundo!'
+- /status - endpoint que retorna a expressão 'Status de vida!!!'
 
 ## Instalação das dependências
 Atenção: Os comandos serão executados em um ambiente Linux, com base na distribuição Ubuntu (pacotes Debian).
